@@ -9,7 +9,6 @@
     "start": "snowpack dev",
     "build": "snowpack build"
   },
-  "author": "TheEyesightDim",
   "license": "WTFPL",
   "dependencies": {
     "svelte": "^3.38.3"
