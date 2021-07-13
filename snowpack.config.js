@@ -5,7 +5,7 @@
 /** @type {import("snowpack").SnowpackUserConfig } */
 module.exports = {
   mount: {
-    public: "/public-build",
+    public: "/",
     src: "/dist",
   },
   plugins: ["@snowpack/plugin-svelte"],
